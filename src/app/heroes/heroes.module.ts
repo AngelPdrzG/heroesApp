@@ -26,7 +26,7 @@ import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dial
 
     // Pipes
     HeroImagePipe,
-     ConfirmDialogComponent,
+    ConfirmDialogComponent,
   ],
   imports: [
     CommonModule,
@@ -34,5 +34,6 @@ import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dial
     MaterialModule,
     ReactiveFormsModule,
   ],
+  exports: [SearchPageComponent],
 })
 export class HeroesModule {}
