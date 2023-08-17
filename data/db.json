@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -166,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "uu9AthD",
-      "superhero": "Leon Scott Keneddy",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Leon S",
-      "first_appearance": "Resident Evil 2 #1 1996",
-      "characters": "Leon",
-      "alt_img": "https://wallpapercave.com/wp/xyGasVT.jpg"
     }
   ]
 }
