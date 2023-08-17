@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://static01.nyt.com/images/2018/04/18/arts/18superman-oak-refer/18superman-oak10-superJumbo.jpg"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "uu9AthD",
+      "superhero": "Leon Scott Keneddy",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Leon S",
+      "first_appearance": "Resident Evil 2 #1 1996",
+      "characters": "Leon",
+      "alt_img": "https://wallpapercave.com/wp/xyGasVT.jpg"
     }
   ]
 }
